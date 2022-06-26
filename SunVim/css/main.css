@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #282c34;
+}
+/*Navbar*/
+.navbar {
+    background-color: #282c34;
+    right: -79%;
+}
+.btn {
+    background-color: #282c34;
+    color:#fff;
+    position: relative;
+
+}
+.btn:hover{
+    color: #FDA557;
+}
+ion-icon {
+    color: #fff;
+    cursor: pointer;
+}
+#tray-git {
+    margin-left: 79%;
+}
+.collaborators{
+    display: flex;
+
+}
+.collaborators span {
+    display: inline-flex;
+    cursor: pointer;
+    opacity: 0%;
+}
+.floatingIcons {
+    padding: 5%;
+    margin-top: -20%;
+}
+#code {
+    margin-left: 40%;
+}
+#code:hover{
+    color: #aa6121;
+    transition: 2s;
+}
+#feat{
+    margin-left: 30%;
+}
+#feat:hover {
+    color: #418526;
+    transition: 2s;
+}
+#faq {
+    margin-left: 24%;
+}
+#faq:hover{
+    color: #721408;
+    transition: 2s;
+}
+.floatingIcons:hover > span {
+    opacity: 100%;
+    transition: 2s;
+    color:#f39646;
+    font-family: monospace;
+}
+/*Container Principal*/
+h1{
+    font-family: 'Concert One', cursive;
+    color: #f39646;
+    font-size: 100pt;
+    margin-top: 5%;
+}
+h2 {
+    font-family: 'Concert One', cursive;
+    color: #FFFF;
+    font-size: 80pt;
+    margin-left: 21%;
+    margin-top: -13%;
+}
+#buttonSecond {
+    top:40px;
+    margin-left: 40px;
+    width: 30%;
+    font-family: 'Concert One', cursiv
+}
+/*Carousel*/
+#carousel {
+    margin-top: -15%;
+    margin-left: 45%;
+}
+@import url(https://fonts.googleapis.com/css?family=Khula:700);
+.hidden {
+  opacity:0;
+}
+.console-container {
+
+  font-family:'Space Mono', monospace;
+  font-size:1em;
+  text-align:left;
+  height:200px;
+  width:600px;
+  display:block;
+  position:absolute;
+  color:white;
+  top: -32%;
+  bottom:0;
+  left:-36%;
+  right:0;
+  margin:auto;
+}
+.console-underscore {
+   display:inline-block;
+  position:relative;
+  top:0em;
+  left:-10px;
+}
+/*SIDE BAR*/
