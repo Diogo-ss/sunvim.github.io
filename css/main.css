@@ -26,12 +26,10 @@ ion-icon {
 }
 .collaborators{
     display: flex;
-
 }
 .collaborators span {
     display: inline-flex;
     cursor: pointer;
-    opacity: 0%;
 }
 .floatingIcons {
     padding: 5%;
@@ -42,27 +40,18 @@ ion-icon {
 }
 #code:hover{
     color: #aa6121;
-    transition: 2s;
 }
 #feat{
     margin-left: 30%;
 }
 #feat:hover {
     color: #418526;
-    transition: 2s;
 }
 #faq {
     margin-left: 24%;
 }
 #faq:hover{
     color: #721408;
-    transition: 2s;
-}
-.floatingIcons:hover > span {
-    opacity: 100%;
-    transition: 2s;
-    color:#f39646;
-    font-family: monospace;
 }
 /*Container Principal*/
 h1{
