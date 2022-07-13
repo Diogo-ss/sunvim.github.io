@@ -62,18 +62,18 @@ h1{
     color: #f39646;
     font-size: 100pt;
     margin-top: 15%;
-    margin-left: -15%;
+    margin-left: -25%;
 }
 h2 {
     font-family: 'Concert One', cursive;
     color: #FFFF;
     font-size: 80pt;
-    margin-left: 6%;
+    margin-left: -4%;
     margin-top: -13%;
 }
 #buttonSecond {
     top:40px;
-    margin-left: -12%;
+    margin-left: -22%;
     width: 30%;
     font-family: 'Concert One', cursiv
 }
@@ -82,7 +82,7 @@ h2 {
     width: 53%;
     height: 67%;
     margin-top: -15%;
-    margin-left: 45%;
+    margin-left: 40%;
 }
 @import url(https://fonts.googleapis.com/css?family=Khula:700);
 .hidden {
@@ -98,7 +98,7 @@ h2 {
   position:absolute;
   color:white;
   bottom:60%;
-  left:13%;
+  left:7.5%;
 }
 .console-underscore {
   display:inline-block;
