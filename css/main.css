@@ -61,18 +61,19 @@ h1{
     font-family: 'Concert One', cursive;
     color: #f39646;
     font-size: 100pt;
-    margin-top: 5%;
+    margin-top: 15%;
+    margin-left: -21%;
 }
 h2 {
     font-family: 'Concert One', cursive;
     color: #FFFF;
     font-size: 80pt;
-    margin-left: 21%;
+    margin-left: 0%;
     margin-top: -13%;
 }
 #buttonSecond {
     top:40px;
-    margin-left: 40px;
+    margin-left: -15%;
     width: 30%;
     font-family: 'Concert One', cursiv
 }
@@ -91,20 +92,16 @@ h2 {
 
   font-family:'Space Mono', monospace;
   font-size:1em;
-  text-align:left;
-  height:200px;
+  height:100px;
   width:600px;
   display:block;
   position:absolute;
   color:white;
-  top: -32%;
-  bottom:0;
-  left:-36%;
-  right:0;
-  margin:auto;
+  bottom:60%;
+  left:10%;
 }
 .console-underscore {
-   display:inline-block;
+  display:inline-block;
   position:relative;
   top:0em;
   left:-10px;
